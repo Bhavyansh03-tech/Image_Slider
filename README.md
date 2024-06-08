@@ -11,8 +11,8 @@ This repository demonstrates how to create an image slider using the `Horizontal
 ## Screenshots
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Bhavyansh03-tech/Image_Slider/assets/96388594/55f9c7b6-e2af-4432-bda4-7c81a9b7696c" alt="First Flow Row" style="width: 200px; height: auto; margin-right: 10px;">
-    <img src="https://github.com/Bhavyansh03-tech/Image_Slider/assets/96388594/a2c93fe6-d29d-4ec9-8164-b10a31b4dabb" alt="Second Flow Row" style="width: 200px; height: auto;">
+    <img src="https://github.com/Bhavyansh03-tech/Image_Slider/assets/96388594/55f9c7b6-e2af-4432-bda4-7c81a9b7696c" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/Bhavyansh03-tech/Image_Slider/assets/96388594/a2c93fe6-d29d-4ec9-8164-b10a31b4dabb" alt="Second Screenshot" style="width: 200px; height: auto;">
 </div>
 
 ## Getting Started
